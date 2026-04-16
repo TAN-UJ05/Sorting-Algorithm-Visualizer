@@ -128,6 +128,7 @@ python SortingAlgos.py
 ## 📫 Contact
 
 **GitHub:** [TAN-UJ05](https://github.com/TAN-UJ05?utm_source=chatgpt.com)
+
 **Email:** [tanujjoshi669@gmail.com](mailto:tanujjoshi669@gmail.com)
 
 ---
